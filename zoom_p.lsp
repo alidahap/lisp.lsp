@@ -1,3 +1,2 @@
 (dfun c:zp()
-(command "._zoom" "_P")
-      )
+(command "._zoom" "_P"))
