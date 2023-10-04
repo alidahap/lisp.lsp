@@ -18,7 +18,3 @@
 (defun c:zw()
 (command "._zoom" "_w")
       )
-
-
-
-;user21822591780587
