@@ -1,0 +1,9 @@
+How to use the program?
+
+    Download the LISP file
+    Load the LISP program. There are several ways to load AutoLISP program, but this is the easiest way. Thanks Ellen!
+    I wrote the code to run when I type LB then [enter]. You should be able to use it after you load the program.
+    You need to click twice: the point you want to label and label location.
+    It will use leader command. So if it’s too large, too small, or you want to customize it, change your style.
+    It is also use file UNITS settings. If you want to change the format to decimal or architecture format, change it in UNITS settings.
+    The program will continue to ask you for points until you press [esc] or [enter]. I decide to make it this way because mostly we want to create several labels at once. So you don’t need to reactivate it after you have labeled one point.
